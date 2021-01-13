@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fresh App</string>
+    <string name="content_main">Berikut Beberapa Sayuran Terbaik di Indonesia</string>
+    <string name="content_origin">origin</string>
+    <string name="overview">overview</string>
+    <string name="brand_identity">Rincian</string>
+    <string name="brand_overview">Artikel</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Jumlah \nHarga </string>
+    <string name="name_me">Yusuf Nur Rahman Wahid</string>
+    <string name="nim_me">185410039</string>
+    <string name="email_me">yusufrahman135@gmail.com</string>
+    <string name="origin">Origin</string>
+</resources>
